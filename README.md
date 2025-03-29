@@ -1,13 +1,17 @@
 # Plane-Tracking
 מתוך הקבצים בrepositry קיימות 2 תיקיות, אחת לחלק של השרת והשניה לחלק של הקליינט 
+
 plane-tracking-frontend - client side
 plane-tracking-backend - server side
 
 הקבצים החשובים בכל תיקיה הם:
+
 plane-tracking-frontend :
 
 App.js - קובץ המכיל את הגדרות העמוד בעזרת react
 App.css - קובץ המכיל אפיון של מיקומים על המסך של חלקים מהעמוד
+
+
 
 plane-tracking-backend :
 
