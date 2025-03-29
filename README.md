@@ -21,6 +21,7 @@ server.js - קובץ השרת המשתמש ב MONGODB ומכיל שרת עם RES
 
 קובץ זה הוא קובץ אפיון שרשמתי לעצמי כדי לסדר את המשימות בשביל לעשות את המשימה
 בנוסף לכך רשמתי לעצמי בקובץ על המושגים שאני צריך ללמוד ולחזקור עליהם ועל אפיון המשימה עצמה
+
 mongoDB:
 
 MongoDB is a Nosql database(a database that doesn’t use the traditional database structure which is rows and columns but instead provides a flexible design which can be optimized for the needed task). MongoDB uses  a JSON like format called BSON, which allows for dynamic schemas making it ideal for applications with evolving and updating data unlike regular traditional databases with a fixed table and schema.
