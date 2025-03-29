@@ -1,0 +1,121 @@
+/* General Container */
+.container {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+/* Title */
+.title {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Tab Buttons */
+.tab-buttons {
+  margin-bottom: 20px;
+}
+
+.tab-buttons button {
+  font-size: 18px;
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  cursor: pointer;
+  background-color: #ddd;
+  border-radius: 5px;
+}
+
+.tab-buttons button:hover {
+  background-color: #bbb;
+}
+
+.tab-buttons button:active {
+  font-weight: bold;
+}
+
+/* Text Tab */
+.text-tab {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+/* Visual Tab */
+.visual-tab {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+/* Altitude Meter */
+.altitude {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+
+.altitude h3 {
+  margin-top: 10px;
+}
+
+/* HIS Compass */
+.his {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+
+.his h3 {
+  margin-top: 10px;
+}
+
+/* ADI Indicator */
+.adi {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+
+.adi h3 {
+  margin-top: 10px;
+}
+
+/* Input Form */
+.input-form {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.input-form label {
+  display: block;
+  margin: 10px 0;
+}
+
+.input-form input {
+  font-size: 16px;
+  padding: 5px;
+  width: 100px;
+  margin-left: 10px;
+}
+
+.input-form button {
+  font-size: 18px;
+  padding: 8px 15px;
+  margin-top: 10px;
+  cursor: pointer;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+}
+
+.input-form button:hover {
+  background-color: #0056b3;
+}
